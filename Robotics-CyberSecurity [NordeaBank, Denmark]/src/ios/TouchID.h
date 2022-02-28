@@ -13,3 +13,4 @@
 - (void) askPassword:(CDVInvokedUrlCommand*)command;
 
 @end
+ 
