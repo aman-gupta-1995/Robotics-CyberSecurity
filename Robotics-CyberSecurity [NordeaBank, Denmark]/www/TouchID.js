@@ -6,7 +6,7 @@ TouchID.prototype.isAvailable = function (successCallback, errorCallback) {
 };
 
 TouchID.prototype.didFingerprintDatabaseChange = function (successCallback, errorCallback) {
-  cordova.exec(successCallback, errorCallback, "TouchID", "didFingerprintDatabaseChange", []);
+  cordova.exec(successCallback, errorCallback, "TouchID", "didFingerprintDatabaseChange", []); 
 };
  
 TouchID.prototype.verifyFingerprint = function (message, successCallback, errorCallback) {
