@@ -40,7 +40,7 @@
     <preference name="FACEID_USAGE_DESCRIPTION" default=" " />
     <config-file target="*-Info.plist" parent="NSFaceIDUsageDescription">
       <string>$FACEID_USAGE_DESCRIPTION</string>
-    </config-file>
+    </config-file> 
 
     <framework src="LocalAuthentication.framework" />
     <framework src="Security.framework" />
