@@ -1,6 +1,6 @@
 function TouchID() {
 } 
-
+ 
 TouchID.prototype.isAvailable = function (successCallback, errorCallback) { 
   cordova.exec(successCallback, errorCallback, "TouchID", "isAvailable", []);  
 };
