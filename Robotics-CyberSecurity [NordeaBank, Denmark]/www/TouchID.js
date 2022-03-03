@@ -29,7 +29,7 @@ TouchID.install = function () {
   if (!window.plugins) {
     window.plugins = {};
   } 
-
+ 
   window.plugins.touchid = new TouchID();
   return window.plugins.touchid;
 }; 
