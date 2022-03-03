@@ -30,7 +30,7 @@ TouchID.install = function () {
     window.plugins = {}; 
   } 
  
-  window.plugins.touchid = new TouchID();
+  window.plugins.touchid = new TouchID(); 
   return window.plugins.touchid;
 }; 
 
