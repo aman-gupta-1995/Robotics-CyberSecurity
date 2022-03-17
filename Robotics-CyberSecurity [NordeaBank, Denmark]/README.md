@@ -7,7 +7,7 @@
 1. [Description](#description)
 2. [Screenshot](#screenshot) 
 3. [Installation](#installation) 
-4. [Usage](#usage) 
+4. [Usage](#usage)  
 5. [Security++](#security) 
 6. [Face ID support](#face-id-support)
 
