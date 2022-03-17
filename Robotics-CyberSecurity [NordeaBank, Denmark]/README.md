@@ -5,7 +5,7 @@
 ## Index
   
 1. [Description](#description)  
-2. [Screenshot](#screenshot)   
+2. [Screenshot](#screenshot)    
 3. [Installation](#installation)     
 4. [Usage](#usage)  
 5. [Security++](#security)   
