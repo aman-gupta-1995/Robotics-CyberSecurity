@@ -13,7 +13,7 @@
 
   <license>MIT</license>
 
-  <keywords>TouchID, Touch ID, Fingerprint, Biometric</keywords>
+  <keywords>TouchID, Touch ID, Fingerprint, Biometric</keywords> 
 
   <repo>https://github.com/EddyVerbruggen/cordova-plugin-touchid.git</repo>
 
