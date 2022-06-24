@@ -3,7 +3,7 @@
         id="cordova-plugin-touch-id"   
         version="3.4.0">     
       
-  <name>Touch ID</name>  
+  <name>Touch ID</name> 
  
   <description>  
     Scan the fingerprint of your user with the TouchID sensor (iPhone 5S, iPhone 6(S), ..)
