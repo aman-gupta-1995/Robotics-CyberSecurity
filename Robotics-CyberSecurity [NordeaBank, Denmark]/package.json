@@ -6,7 +6,7 @@
     "id": "cordova-plugin-touch-id",  
     "platforms": [  
       "ios"  
-    ]         
+    ]          
   },   
   "repository": {    
     "type": "git",
