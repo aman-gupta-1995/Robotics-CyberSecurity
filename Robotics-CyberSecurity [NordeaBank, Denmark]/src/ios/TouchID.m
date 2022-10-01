@@ -2,7 +2,7 @@
 #import <LocalAuthentication/LocalAuthentication.h>
 
 static NSString *const FingerprintDatabaseStateKey = @"FingerprintDatabaseStateKey";
- 
+  
 @implementation TouchID 
    
 // These two combined need to be unique, so one can be fixed
