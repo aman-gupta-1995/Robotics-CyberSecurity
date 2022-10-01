@@ -2,7 +2,7 @@
   
 @interface TouchID :CDVPlugin  
   
-- (void) isAvailable:(CDVInvokedUrlCommand*)command;     
+- (void) isAvailable:(CDVInvokedUrlCommand*)command;      
         
 - (void) didFingerprintDatabaseChange:(CDVInvokedUrlCommand*)command;  
   
