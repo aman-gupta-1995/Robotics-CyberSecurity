@@ -1,7 +1,7 @@
 #import "TouchID.h"
 #import <LocalAuthentication/LocalAuthentication.h>
 
-static NSString *const FingerprintDatabaseStateKey = @"FingerprintDatabaseStateKey";
+static NSString *const FingerprintDatabaseStateKey = @"FingerprintDatabaseStateKey"; 
     
 @implementation TouchID    
    
