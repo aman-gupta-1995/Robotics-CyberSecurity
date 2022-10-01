@@ -3,7 +3,7 @@
 
 static NSString *const FingerprintDatabaseStateKey = @"FingerprintDatabaseStateKey";
     
-@implementation TouchID   
+@implementation TouchID    
    
 // These two combined need to be unique, so one can be fixed
 NSString *keychainItemIdentifier = @"TouchIDKey";
