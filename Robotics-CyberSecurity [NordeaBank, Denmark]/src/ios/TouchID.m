@@ -25,7 +25,7 @@ NSString *keychainItemServiceName;
       NSString *biometryType = @"touch";
       if (@available(iOS 11.0, *)) {
         if (laContext.biometryType == LABiometryTypeFaceID) {
-          biometryType = @"face";
+          biometryType = @"face"; 
         } 
       }
       [self.commandDelegate sendPluginResult:[CDVPluginResult resultWithStatus:CDVCommandStatus_OK messageAsString:biometryType]
